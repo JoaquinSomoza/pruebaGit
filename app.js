@@ -1,5 +1,4 @@
-console.log("Hola soy app.js, modificado primera vez");
-
+alert("Soy un mensaje");
 
 console.log("Hola soy app.js, modificado una vez mas");
 console.log("Hola soy app.js, modificado tercera vez");
