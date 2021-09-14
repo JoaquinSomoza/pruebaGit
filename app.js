@@ -1,4 +1,6 @@
-console.log("Hola soy app.js, modificado primera vez");
+let function saludar(string) {
+    console.log("Hola buenas tarder");
+}
 
 
 console.log("Hola soy app.js, modificado una vez mas");
